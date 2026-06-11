@@ -24,7 +24,7 @@
 <br>
 
 <p align="left">
-<br>
+  <h4>Aprendiendo <img width="30px" src="https://media.tenor.com/-knucJ76L_AAAAAi/hearts.gif" /></h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,html,css,md,figma,r,git,bash,linux,github" />
   </a>
