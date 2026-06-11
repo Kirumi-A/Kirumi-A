@@ -21,7 +21,6 @@
 - Me gusta el anime
 
 <br>
-<br>
 
 <p align="left">
   <h4>Aprendiendo <img width="30px" src="https://media.tenor.com/-knucJ76L_AAAAAi/hearts.gif" /></h4>
